@@ -19,4 +19,4 @@ Neste desafio eu precisaria implementar uma sequência de passos lógicos para r
 ## Fluxograma do projeto:
 
 
-<img src="https://whimsical.com/embed/FMmTj9JFVSXFccWuxSKgxT">
+<img src="https://whimsical.com/fluxo-desafio1-FMmTj9JFVSXFccWuxSKgxT">
