@@ -18,9 +18,5 @@ Neste desafio eu precisaria implementar uma sequência de passos lógicos para r
 
 ## Fluxograma do projeto:
 
-  <iframe id="Fluxograma"
-      title="Fluxograma do projeto"
-      width="800"
-      height="450"
-      src="https://whimsical.com/embed/FMmTj9JFVSXFccWuxSKgxT">
-  </iframe>
+
+<img src="https://whimsical.com/embed/FMmTj9JFVSXFccWuxSKgxT">
