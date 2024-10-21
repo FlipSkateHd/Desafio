@@ -1,4 +1,5 @@
-# Meu desafio:
+# Meu desafio
+
 Meu desafio foi o seguinte:
 
     a empresa possui apenas uma peça a ser controlada;
@@ -13,10 +14,8 @@ Meu desafio foi o seguinte:
         ao final de cada entrada de dados, perguntar se o usuário deseja continuar (s) ou não (n) a entrada de dados;
     caso o usuário encerre o sistema, apresentar a mensagem "Sistema encerrado".
 
-Neste desafio eu precisaria implementar uma sequência de passos lógicos para resolução (Fluxograma) e em seguida usar ferramentas e linguagem de programação para construir o sistema (VScode e JS). 
+Neste desafio eu precisaria implementar uma sequência de passos lógicos para resolução (Fluxograma) e em seguida usar ferramentas e linguagem de programação para construir o sistema (VScode e JS).
 
-
-## Fluxograma do projeto:
-
+## Fluxograma do projeto
 
 <img src="\Fluxo Desafio1.png">
